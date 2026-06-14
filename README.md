@@ -6,11 +6,10 @@ glass, hardware and finish, then **computes the bill of materials and the price*
 and exports a **PDF quote** for the customer.
 
 > ### 🔒 Why this repository is a description only
-> The full source code is kept **private** because this is **commissioned client
-> work** — it was built for **two real businesses** that produce shower cabins, and
-> it encodes their product catalog, pricing rules and hardware data. That belongs
-> to the clients, so the code stays closed. This page documents what it does and
-> how it's built.
+> The full source code is kept **private** because it was **built for a client** —
+> it encodes their product catalog, pricing rules and hardware data, which belongs
+> to them, so the code stays closed. This page documents what it does and how it's
+> built.
 >
 > Happy to demo it or walk through the code on request.
 
@@ -66,8 +65,8 @@ util/session/     login session + current configuration state
 
 ## Status
 
-✅ **Delivered and in use** by two manufacturing clients, packaged as a Windows
-installer with a database restore script and an end-user setup guide.
+✅ **Delivered and in production use**, packaged as a Windows installer with a
+database restore script and an end-user setup guide.
 
 ---
 
